@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demo-react-host/static/css/main.66f81174.chunk.css",
+    "main.js": "/demo-react-host/static/js/main.5cc77156.chunk.js",
+    "main.js.map": "/demo-react-host/static/js/main.5cc77156.chunk.js.map",
+    "runtime-main.js": "/demo-react-host/static/js/runtime-main.49d88e18.js",
+    "runtime-main.js.map": "/demo-react-host/static/js/runtime-main.49d88e18.js.map",
+    "static/js/2.482bdd32.chunk.js": "/demo-react-host/static/js/2.482bdd32.chunk.js",
+    "static/js/2.482bdd32.chunk.js.map": "/demo-react-host/static/js/2.482bdd32.chunk.js.map",
+    "index.html": "/demo-react-host/index.html",
+    "static/css/main.66f81174.chunk.css.map": "/demo-react-host/static/css/main.66f81174.chunk.css.map",
+    "static/js/2.482bdd32.chunk.js.LICENSE.txt": "/demo-react-host/static/js/2.482bdd32.chunk.js.LICENSE.txt",
+    "static/media/feed.1b2e5222.svg": "/demo-react-host/static/media/feed.1b2e5222.svg",
+    "static/media/heart.419dbd7a.svg": "/demo-react-host/static/media/heart.419dbd7a.svg",
+    "static/media/igtv-icon.1e027e0f.svg": "/demo-react-host/static/media/igtv-icon.1e027e0f.svg",
+    "static/media/plays.dfa5536f.svg": "/demo-react-host/static/media/plays.dfa5536f.svg",
+    "static/media/post-icon.586f6f67.svg": "/demo-react-host/static/media/post-icon.586f6f67.svg",
+    "static/media/profile-icon.069a2757.svg": "/demo-react-host/static/media/profile-icon.069a2757.svg",
+    "static/media/reel-icon.9f8f639f.svg": "/demo-react-host/static/media/reel-icon.9f8f639f.svg",
+    "static/media/story-icon.4e049e09.svg": "/demo-react-host/static/media/story-icon.4e049e09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49d88e18.js",
+    "static/js/2.482bdd32.chunk.js",
+    "static/css/main.66f81174.chunk.css",
+    "static/js/main.5cc77156.chunk.js"
+  ]
+}
