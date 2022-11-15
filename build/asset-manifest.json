@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/insta-media-down/static/css/main.66f81174.chunk.css",
+    "main.js": "/insta-media-down/static/js/main.91a37f3b.chunk.js",
+    "main.js.map": "/insta-media-down/static/js/main.91a37f3b.chunk.js.map",
+    "runtime-main.js": "/insta-media-down/static/js/runtime-main.561a15ef.js",
+    "runtime-main.js.map": "/insta-media-down/static/js/runtime-main.561a15ef.js.map",
+    "static/js/2.b346fcfb.chunk.js": "/insta-media-down/static/js/2.b346fcfb.chunk.js",
+    "static/js/2.b346fcfb.chunk.js.map": "/insta-media-down/static/js/2.b346fcfb.chunk.js.map",
+    "index.html": "/insta-media-down/index.html",
+    "static/css/main.66f81174.chunk.css.map": "/insta-media-down/static/css/main.66f81174.chunk.css.map",
+    "static/js/2.b346fcfb.chunk.js.LICENSE.txt": "/insta-media-down/static/js/2.b346fcfb.chunk.js.LICENSE.txt",
+    "static/media/feed.1b2e5222.svg": "/insta-media-down/static/media/feed.1b2e5222.svg",
+    "static/media/heart.419dbd7a.svg": "/insta-media-down/static/media/heart.419dbd7a.svg",
+    "static/media/igtv-icon.1e027e0f.svg": "/insta-media-down/static/media/igtv-icon.1e027e0f.svg",
+    "static/media/plays.dfa5536f.svg": "/insta-media-down/static/media/plays.dfa5536f.svg",
+    "static/media/post-icon.586f6f67.svg": "/insta-media-down/static/media/post-icon.586f6f67.svg",
+    "static/media/profile-icon.069a2757.svg": "/insta-media-down/static/media/profile-icon.069a2757.svg",
+    "static/media/reel-icon.9f8f639f.svg": "/insta-media-down/static/media/reel-icon.9f8f639f.svg",
+    "static/media/story-icon.4e049e09.svg": "/insta-media-down/static/media/story-icon.4e049e09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561a15ef.js",
+    "static/js/2.b346fcfb.chunk.js",
+    "static/css/main.66f81174.chunk.css",
+    "static/js/main.91a37f3b.chunk.js"
+  ]
+}
